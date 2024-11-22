@@ -14,7 +14,7 @@ I've been coding for the last few years and have experience with:
 
 ## Connect with Me:
 - [LinkedIn](linkedin.com/in/sk-sumit-ahmed-67a30227b/)
-- [GitHub]([https://github.com/yourusername](https://github.com/sumitahmed))
+- [GitHub]((https://github.com/sumitahmed))
 
 ## Skills
 - C, C++, JavaScript
