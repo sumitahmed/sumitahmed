@@ -23,4 +23,4 @@ I've been coding for the last few years and have experience with:
 - Cybersecurity Awareness
 
 ## Contacts
-- Email: [sksumitahmed007@google.com]
+- Email: sksumitahmed007@google.com
