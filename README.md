@@ -11,14 +11,10 @@ I've been coding for the last few years and have experience with:
 
 ## Achievements
 [![Badge1](https://img.shields.io/badge](https://www.hackerrank.com/profile/sksumitahmed007))
-![Badge2](https://img.shields.io/badge/Server-purple)
-![Badge3](https://img.shields.io/badge/Site-orange)
-![Badge4](https://img.shields.io/badge/Blog-yellow)
 
 ## Connect with Me:
-- [Website](https://yourwebsite.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](linkedin.com/in/sk-sumit-ahmed-67a30227b/)
+- [GitHub]([https://github.com/yourusername](https://github.com/sumitahmed))
 
 ## Skills
 - C, C++, JavaScript
@@ -27,4 +23,4 @@ I've been coding for the last few years and have experience with:
 - Cybersecurity Awareness
 
 ## Contacts
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [sksumitahmed007@google.com]
