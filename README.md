@@ -10,7 +10,7 @@ I've been coding for the last few years and have experience with:
 - Cybersecurity
 
 ## Achievements
-[![Badge1](https://img.shields.io/badge](https://www.hackerrank.com/profile/sksumitahmed007)/Hacker-Rank)
+[![Badge1](https://img.shields.io/badge](https://www.hackerrank.com/profile/sksumitahmed007))
 ![Badge2](https://img.shields.io/badge/Server-purple)
 ![Badge3](https://img.shields.io/badge/Site-orange)
 ![Badge4](https://img.shields.io/badge/Blog-yellow)
