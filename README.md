@@ -17,7 +17,7 @@ I've been coding for the last few years and have experience with:
 - [GitHub]((https://github.com/sumitahmed))
 
 ## Skills
-- C, C++, JavaScript
+- C, C++,Python, JavaScript
 - Data Structures & Algorithms (DSA)
 - Basic Linux
 - Cybersecurity Awareness
