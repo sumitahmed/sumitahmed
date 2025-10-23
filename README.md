@@ -1,11 +1,11 @@
-# ⚡ SK SUMIT AHMED
+# SK SUMIT AHMED
 
 > “Building. Automating. Scaling.”  
 > _Aspiring Full-Stack Developer & DevOps Enthusiast_
 
 ---
 
-### 👋 About Me
+### About Me
 Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology**.  
 I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilling to build reliable, scalable, and impactful projects.
 
@@ -21,7 +21,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### 🧩 Languages
+###  Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
@@ -32,7 +32,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### ⚙️ Development Frameworks & Libraries
+###  Development Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
@@ -59,7 +59,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### 🧰 IDEs & Other Tools
+###  IDEs & Other Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48"/>
