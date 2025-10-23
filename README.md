@@ -1,17 +1,15 @@
-# SK SUMIT AHMED
+# ⚡ SK SUMIT AHMED
 
 > “Building. Automating. Scaling.”  
 > _Aspiring Full-Stack Developer & DevOps Enthusiast_
 
 ---
 
-### About Me
+### 👋 About Me
 Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology**.  
 I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilling to build reliable, scalable, and impactful projects.
 
 🛠️ _I enjoy building apps end-to-end — from designing intuitive UIs to deploying services with modern workflows._
-
----
 
 ---
 
@@ -38,7 +36,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
@@ -73,4 +71,17 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 </p>
 
 ---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumitahmed&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+</p>
+
+---
+
 
