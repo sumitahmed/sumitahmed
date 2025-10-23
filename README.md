@@ -1,4 +1,4 @@
-# ⚡ SK SUMIT AHMED
+# SK SUMIT AHMED
 
 > “Building. Automating. Scaling.”  
 > _Aspiring Full-Stack Developer & DevOps Enthusiast_
@@ -21,7 +21,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### 🧩 Languages
+### Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
@@ -32,7 +32,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### ⚙️ Development Frameworks & Libraries
+### Development Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
@@ -46,7 +46,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### ☁️ Databases & DevOps Tools
+###  Databases & DevOps Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
@@ -54,12 +54,13 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="48" height="48"/>
+
 </p>
 
 ---
 
-### 🧰 IDEs & Other Tools
+### IDEs & Other Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48"/>
@@ -78,8 +79,4 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitahmed&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="170" />
-</p>
 
----
