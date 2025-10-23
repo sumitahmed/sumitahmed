@@ -78,10 +78,5 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitahmed&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="170" />
-</p>
-
----
 
 
