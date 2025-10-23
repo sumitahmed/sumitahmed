@@ -1,38 +1,38 @@
-# ⚡ SK SUMIT AHMED
+# SK SUMIT AHMED
 
 > “Building. Automating. Scaling.”  
 > _Aspiring Full-Stack Developer & DevOps Enthusiast_
 
 ---
 
-### 🧠 About Me
-👋 Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology (2023–2027)**.  
+### About Me
+Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology (2023–2027)**.  
 I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilling to build reliable, scalable, and impactful projects.
 
 🛠️ _I enjoy building apps end-to-end — from designing intuitive UIs to deploying services with modern workflows._
 
 ---
 
-### 🚀 Skills
+### Skills
 
-#### 🧩 Languages
+#### Languages
 `C` • `C++` • `Java` • `JavaScript` • `Python`
 
-#### 💻 Frontend
+#### Frontend
 `React.js` • `Next.js` • `HTML` • `CSS` • `Tailwind CSS`
 
-#### ⚙️ Backend & Databases
+#### Backend & Databases
 `Node.js` • `Express.js` • `FastAPI` • `MongoDB` • `Mongoose`
 
-#### 🧰 DevOps & Tools
+#### DevOps & Tools
 `Git` • `Docker` • `Linux (Ubuntu)` • `VS Code` • `NeoVim` • `PyCharm`
 
-#### 🎨 Editing
+#### Editing
 `After Effects (Twixtor, Sapphire, Twitch)`
 
 ---
 
-### 🌱 Projects
+### Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
@@ -41,9 +41,9 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### 🏅 Achievements
-- 🥇 **Finalist** — Smart India Hackathon 2025 (College Round)  
-- 🎓 **Java Certification** — GeeksforGeeks  
+### Achievements
+-  **Finalist** — Smart India Hackathon 2025 (College Round)  
+-  **Java Certification** — GeeksforGeeks  
 
 ---
 
@@ -54,9 +54,9 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 ---
 
 ### 🌐 Connect with Me
-[🌍 Portfolio](https://sumitahmed.github.io)  
-[💼 LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/)  
-[💻 GitHub](https://github.com/sumitahmed)  
+[ Portfolio](https://sumitahmed.github.io)  
+[LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/)  
+[GitHub](https://github.com/sumitahmed)  
 ✉️ **sksumitahmed007@gmail.com**
 
 ---
