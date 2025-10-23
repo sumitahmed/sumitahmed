@@ -1,11 +1,11 @@
-# SK SUMIT AHMED
+# ⚡ SK SUMIT AHMED
 
 > “Building. Automating. Scaling.”  
 > _Aspiring Full-Stack Developer & DevOps Enthusiast_
 
 ---
 
-### About Me
+### 👋 About Me
 Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology**.  
 I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilling to build reliable, scalable, and impactful projects.
 
@@ -21,7 +21,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-###  Languages
+### 🧩 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
@@ -32,13 +32,13 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-###  Development Frameworks & Libraries
+### ⚙️ Development Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/>
@@ -51,15 +51,20 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
+  <!-- Lighter Git icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="48" height="48"/>
+  <!-- GitHub white logo for dark mode -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-dark-mode-only" width="48" height="48"/>
+  <!-- Alternate white GitHub logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48"/>
+  <!-- Vercel white icon for dark background -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-line.svg" width="48" height="48"/>
 </p>
 
 ---
 
-###  IDEs & Other Tools
+### 🧰 IDEs & Other Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48"/>
@@ -78,5 +83,9 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumitahmed&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+</p>
 
+---
 
