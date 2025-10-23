@@ -13,52 +13,65 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### Skills
+---
 
-#### Languages
-`C` • `C++` • `Java` • `JavaScript` • `Python`
-
-#### Frontend
-`React.js` • `Next.js` • `HTML` • `CSS` • `Tailwind CSS`
-
-#### Backend & Databases
-`Node.js` • `Express.js` • `FastAPI` • `MongoDB` • `Mongoose`
-
-#### DevOps & Tools
-`Git` • `Docker` • `Linux (Ubuntu)` • `VS Code` • `NeoVim` • `PyCharm`
-
-#### Editing
-`After Effects (Twixtor, Sapphire, Twitch)`
+### 🌐 I’m also available here:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sumitahmed.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitahmed)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 ---
 
-### Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **AgriSenseAI** | Intelligent agriculture platform with ML integration, real-time insights, and full-stack architecture. | HTML, CSS, JS, Node.js, FastAPI, MongoDB |
-| **NyaySarthi** | AI-powered judiciary chatbot with interactive UI/UX. | HTML, CSS, JavaScript |
-
----
-
-### Achievements
--  **Finalist** — Smart India Hackathon 2025 (College Round)  
--  **Java Certification** — GeeksforGeeks  
+### 🧩 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical)
+### ⚙️ Development Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/>
+</p>
 
 ---
 
-### 🌐 Connect with Me
-[ Portfolio](https://sumitahmed.github.io)  
-[LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/)  
-[GitHub](https://github.com/sumitahmed)  
-✉️ **sksumitahmed007@gmail.com**
+### ☁️ Databases & DevOps Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48"/>
+</p>
 
 ---
 
-> _“Driven by curiosity. Guided by purpose. Built for impact.”_
+### 🧰 IDEs & Other Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48" height="48"/>
+</p>
+
+---
+
