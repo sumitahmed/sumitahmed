@@ -46,7 +46,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-###  Databases & DevOps Tools
+### Databases & DevOps Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
@@ -55,7 +55,6 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/vercel/ffffff" width="48" height="48"/>
-
 </p>
 
 ---
@@ -70,6 +69,12 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48" height="48"/>
 </p>
+
+---
+
+### 🏆 Hacktoberfest & Open Source Achievements
+
+[![An image of @sumitahmed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumitahmed)](https://holopin.io/@sumitahmed)
 
 ---
 
