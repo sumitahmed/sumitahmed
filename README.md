@@ -75,13 +75,9 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 ### 🏆 Hacktoberfest & Open Source Achievements
 
 <p align="center">
-  <a href="https://holopin.io/@sumitahmed">
-    <img src="https://holopin.me/sumitahmed" alt="@sumitahmed's Holopin board" width="800" />
+  <a href="https://holopin.io/@sumitahmed" target="_blank">
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150" height="150" alt="Hacktoberfest 2025 Badge"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://holopin.io/api/user/board?user=sumitahmed" alt="Holopin Badges" width="800"/>
 </p>
 
 ---
