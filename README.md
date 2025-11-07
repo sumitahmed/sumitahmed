@@ -79,7 +79,6 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
     <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150" height="150" alt="Hacktoberfest 2025 Badge"/>
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
