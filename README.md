@@ -13,7 +13,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### 🌐 I’m also available here:
+### I’m also available here:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-git-main-sumitahmeds-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitahmed)
@@ -72,7 +72,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 
 ---
 
-### 🏆 Hacktoberfest & Open Source Achievements
+### Hacktoberfest & Open Source Achievements
 
 <p align="center">
   <a href="https://holopin.io/@sumitahmed" target="_blank">
@@ -81,7 +81,7 @@ I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilli
 </p>
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical" height="170" />
