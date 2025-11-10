@@ -9,7 +9,7 @@
 Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology**.  
 I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilling to build reliable, scalable, and impactful projects.
 
-🛠️ _I enjoy building apps end-to-end — from designing intuitive UIs to deploying services with modern workflows._
+I enjoy building apps end-to-end — from designing intuitive UIs to deploying services with modern workflows._
 
 ---
 
