@@ -1,7 +1,7 @@
 🏆 Achievements
 <p align="center">
   <a href="https://holopin.io/@sumitahmed">
-    <img src="[https://holopin.me/sumitahmed](https://www.holopin.io/@sumitahmed#badges)" width="100%">
+    <img src="https://www.holopin.io/@sumitahmed#badges" width="100%">
   </a>
 </p>
 
