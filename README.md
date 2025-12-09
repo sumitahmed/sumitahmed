@@ -25,7 +25,7 @@
 <div align="center">
   <h3>🏆 Achievements</h3>
   <a href="https://holopin.io/@sumitahmed">
-    <img src="https://www.holopin.io/@sumitahmed" width="100%" alt="Holopin Badges">
+    <img src="https://www.holopin.io/sumitahmed" width="100%" alt="Holopin Badges">
   </a>
 </div>
 
