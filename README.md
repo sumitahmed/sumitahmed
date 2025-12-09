@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=300&section=header&text=SK%20SUMIT%20AHMED&fontSize=80&fontColor=7fd6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20AI%20%7C%20Open%20Source&descAlignY=55&descSize=20&descColor=ffb78b" alt="Sumit Ahmed Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=300&section=header&text=SK%20SUMIT%20AHMED&fontSize=80&fontColor=7fd6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Hyperland%20Architect%20%7C%20Open%20Source&descAlignY=55&descSize=20&descColor=ffb78b" alt="Sumit Ahmed Header" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://sumitahmed.github.io/">
-    <img src="https://img.shields.io/badge/VIEW_LIVE-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=7fd6ff&color=0f1419&borderColor=7fd6ff" height="35" />
+    <img src="https://img.shields.io/badge/LIVE_SYSTEM-HYPERLAND_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=7fd6ff&color=0f1419&borderColor=7fd6ff" height="35" />
   </a>
 </div>
 
@@ -65,6 +65,7 @@
 
 <div align="center">
   <h3>🔗 Establish Connection</h3>
+  
   <a href="https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -74,6 +75,13 @@
   <a href="https://www.instagram.com/incel.sumit/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="https://twitter.com/sumitkun_">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://github.com/sumitahmed">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
 </div>
 
 <br />
