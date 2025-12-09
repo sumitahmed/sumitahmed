@@ -9,12 +9,12 @@
 Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology**.  
 I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilling to build reliable, scalable, and impactful projects.
 
-I enjoy building apps end-to-end — from designing intuitive UIs to deploying services with modern workflows._
+I enjoy building apps end-to-end — from designing intuitive UIs to deploying services with modern workflows.
 
 ---
 
 ### I’m also available here:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-git-main-sumitahmeds-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumitahmed.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitahmed)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/incel.sumit/?hl=en)
@@ -79,6 +79,7 @@ I enjoy building apps end-to-end — from designing intuitive UIs to deploying s
     <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150" height="150" alt="Hacktoberfest 2025 Badge"/>
   </a>
 </p>
+
 ---
 
 ### GitHub Stats
@@ -86,4 +87,3 @@ I enjoy building apps end-to-end — from designing intuitive UIs to deploying s
   <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical" height="170" />
 </p>
-
