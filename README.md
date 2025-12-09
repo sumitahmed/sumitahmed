@@ -54,13 +54,11 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f14" height="170" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f14" height="170" alt="Top Languages" />
-  </p>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitahmed&theme=react-dark-high-contrast&bg_color=0b0f14&hide_border=true&color=7fd6ff" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitahmed&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
@@ -83,7 +81,7 @@
   <a href="https://github.com/sumitahmed">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://discordapp.com/users/sumitahmed">
+  <a href="https://discord.com/users/608572578231091240">
     <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
