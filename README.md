@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=300&section=header&text=SK%20SUMIT%20AHMED&fontSize=80&fontColor=7fd6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Hyperland%20Architect%20%7C%20Open%20Source&descAlignY=55&descSize=20&descColor=ffb78b" alt="Sumit Ahmed Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=300&section=header&text=SK%20SUMIT%20AHMED&fontSize=80&fontColor=7fd6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20AI%20%7C%20Open%20Source&descAlignY=55&descSize=20&descColor=ffb78b" alt="Sumit Ahmed Header" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://sumitahmed.github.io/">
-    <img src="https://img.shields.io/badge/LIVE_SYSTEM-HYPERLAND_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=7fd6ff&color=0f1419&borderColor=7fd6ff" height="35" />
+    <img src="https://img.shields.io/badge/VIEW_LIVE-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=7fd6ff&color=0f1419&borderColor=7fd6ff" height="35" />
   </a>
 </div>
 
@@ -46,19 +46,19 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgres&theme=dark" /><br/>
   <br/>
 
-  <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,postman,vscode,neovim,figma&theme=dark" />
+  <b>DevOps, Tools & Design</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,postman,vscode,neovim,figma,ae,ps&theme=dark" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>📊 Network Metrics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7fd6ff&icon_color=ffb78b&text_color=98a2aa" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7fd6ff&text_color=98a2aa" height="170" />
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7fd6ff&icon_color=ffb78b&text_color=98a2aa" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7fd6ff&text_color=98a2aa" height="170" alt="Top Languages" />
   <br/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitahmed&theme=react-dark-high-contrast&bg_color=0b0f14&hide_border=true&color=7fd6ff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitahmed&theme=react-dark-high-contrast&bg_color=0b0f14&hide_border=true&color=7fd6ff" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
