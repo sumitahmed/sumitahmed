@@ -1,91 +1,95 @@
-# SK SUMIT AHMED
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0eb9e3&height=280&section=header&text=SK%20SUMIT%20AHMED&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Open%20Source&descAlignY=55&descAlign=50" alt="Sumit Ahmed Header" />
+</div>
 
-> “Building. Automating. Scaling.”  
-> _Aspiring Full-Stack Developer & DevOps Enthusiast_
-
----
-
-### 👋 About Me
-Hey! I’m **Sumit**, a passionate technologist from **Kolkata, India**, currently pursuing **B.Tech in ECE** at **RCC Institute of Information Technology**.  
-I’m exploring **Full-Stack Development** and **DevOps**, continuously upskilling to build reliable, scalable, and impactful projects.
-
-I enjoy building apps end-to-end — from designing intuitive UIs to deploying services with modern workflows.
+<div align="center">
+  <h3>A Passionate Software Developer, DevOps Engineer & Creative Builder from India 🇮🇳</h3>
+</div>
 
 ---
 
-### I’m also available here:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumitahmed.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitahmed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/incel.sumit/?hl=en)
-
----
-
-### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/>
-</p>
-
----
-
-### Frontend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
-</p>
-
----
-
-### Backend & Cloud
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48" height="48"/>
-</p>
-
----
-
-### Tools & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48" height="48"/>
-</p>
-
----
-
-### Hacktoberfest & Open Source Achievements
-
-<p align="center">
+<div align="center">
+  <h3>🎖 Holopin Badges</h3>
   <a href="https://holopin.io/@sumitahmed" target="_blank">
-    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150" height="150" alt="Hacktoberfest 2025 Badge"/>
+    <img src="https://holopin.me/sumitahmed" alt="Sumit's Holopin Badges" width="100%" />
+  </a>
+</div>
+
+---
+
+### 🛠 About Me
+
+- 🔭 Currently exploring **DevOps, Cloud Native Architechture & AI Agents**
+- 👯 Excited to collaborate on **MERN Stack & GenAI Projects**
+- 🤖 Building **Hyper-interactive web experiences** (like my [Hyperland Portfolio](https://sumitahmed.github.io/))
+- 🚀 Active in **Hackathons, OSS & Tech Communities** around Kolkata
+- ⚡ **Fun Fact:** I enjoy customizing Linux rices, anime-themed UIs, and optimizing backend performance.
+- 📫 **How to reach me:** [sksumitahmed007@gmail.com](mailto:sksumitahmed007@gmail.com)
+
+---
+
+### 🌐 Connect on Socials!
+
+<p align="left">
+  <a href="https://sumitahmed.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/incel.sumit/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:sksumitahmed007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical" height="170" />
-</p>
+<div align="center">
+  <h3>⚒ Languages-Frameworks-Tools ⚒</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="Languages" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,framer&theme=dark" alt="Frontend" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgres,cloudinary&theme=dark" alt="Backend" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,postman,vscode,neovim,figma&theme=dark" alt="Tools" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitahmed&theme=react-dark-high-contrast&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>⚡ Stats ⚡</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="Top Langs" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>💡 Let's Collaborate!</h3>
+  <p>🚀 Have something in mind? I’m always up for new ideas and teamwork. Let’s shape it into something real.</p>
+  <p>🤝 I'm always ready for <b>Hackathons, Open-source collaborations, and team-based innovation.</b></p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/L8K62iTDkzGX6/giphy.gif" width="200" alt="Anime Coding GIF" />
+  <h3>👋 Thanks for Visiting</h3>
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+</div>
