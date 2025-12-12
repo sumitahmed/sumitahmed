@@ -67,14 +67,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sumitahmed&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="180" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sumitahmed&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitahmed&theme=calm&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
->
+
 
 ---
 
