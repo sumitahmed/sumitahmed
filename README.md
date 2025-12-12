@@ -3,7 +3,7 @@
 * 🎓 B.Tech in Electronics and Communication Engineering
 * 💻 Full-Stack Developer | Cybersecurity Enthusiast | DevOps Explorer
 * 🦇 Building impactful projects and continuously upskilling
-* 🌟 Open Source 💖
+* 💖 Open Source 
 * Kolkata, India
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
@@ -11,7 +11,9 @@
 [Buy me a Milktea / 请我喝奶茶](https://www.buymeacoffee.com/sumitahmed)
 
 ---
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=ff3232&style=flat-square" alt="Profile Views" />
+</div>
 ## 💻 Tech Stack
 
 ### Frontend
@@ -106,6 +108,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=ff3232&style=flat-square" alt="Profile Views" />
-</div>
+
