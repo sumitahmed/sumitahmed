@@ -42,6 +42,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### Tools & IDEs
+### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,6 +52,7 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+
 ##  Achievements & Badges
 
 <div align="center">
@@ -59,6 +61,7 @@
   </a>
 </div>
 
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sumitahmed&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="180" alt="Top Languages" />
