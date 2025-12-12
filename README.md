@@ -1,48 +1,79 @@
 # Hi 👋 Sumit here.
 
-* 👩‍💻 Software Engineering
-* 🐱 Non binary, or cat
-* 📝 Use NodeJS / C# backend, Vue.JS (TSX) for frontend
-* 🌟 Make something to improve my life
-* 💕 Opensource
+* 🎓 B.Tech in Electronics and Communication Engineering
+* 💻 Full-Stack Developer | Cybersecurity Enthusiast | DevOps Explorer
+* 🚀 Building impactful projects and continuously upskilling
+* 🌟 Open Source Contributor
+* 📍 Kolkata, India
 
-[Homepage (zh)](https://sumitahmed.github.io/) · [Blog (zh)](https://sumitahmed.github.io/) · [About (zh / en)](https://sumitahmed.github.io/about) · [Friends](https://sumitahmed.github.io/friends)
+[Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
 
-[Buy me a Milktea / 请我喝奶茶](https://www.buymeacoffee.com/sumitahmed)
+---
 
-<!-- PROFILE VIEW COUNTER -->
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Cloud & DevOps
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=ff3232&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="180" alt="Top Languages" />
 </div>
 
-<br>
+---
 
-<!-- TECH STACK ICONS -->
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,tailwind,html,css,nodejs,express,fastapi,flask,mongodb,mysql,postgres,git,github,linux,docker,vercel,postman,vscode,neovim,figma,ae,ps)
+## 🏆 Achievements & Badges
 
-<br>
-
-<!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="180" />
-</div>
-
-<br>
-
-<!-- HOLOPIN BADGES -->
-<div align="center">
-  <h3>🏆 Achievements & Badges</h3>
   <a href="https://holopin.io/@sumitahmed">
     <img src="https://holopin.me/sumitahmed" alt="Holopin Badge Board" width="100%">
   </a>
 </div>
 
-<br>
+- 🏅 **GitHub 2025 Super Contributor** — Official Badge
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Networking Professional**
+- ☕ **Java Certification** — GeeksforGeeks
 
-<!-- SOCIAL LINKS -->
+---
+
+## 🔗 Connect with Me
+
 <div align="center">
-  <h3>🔗 Connect with Me</h3>
   
   <a href="https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
@@ -63,3 +94,10 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=ff3232&style=flat-square" alt="Profile Views" />
+</div>
+
