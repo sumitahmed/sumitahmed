@@ -55,6 +55,16 @@
 
 ---
 
+## 🏆 Achievements & Badges
+
+<div align="center">
+  <a href="https://holopin.io/@sumitahmed">
+    <img src="https://holopin.me/sumitahmed" alt="Holopin Badge Board" width="100%">
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,13 +81,6 @@
 
 ---
 
-## 🏆 Achievements & Badges
-
-<div align="center">
-  <a href="https://holopin.io/@sumitahmed">
-    <img src="https://holopin.me/sumitahmed" alt="Holopin Badge Board" width="100%">
-  </a>
-</div>
 
 
 ## 🔗 Connect with Me
