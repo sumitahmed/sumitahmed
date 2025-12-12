@@ -1,6 +1,6 @@
 # Hi 👋 Sumit here.
 
-* 🎓 B.Tech in Electronics and Communication Engineering
+* 🎓 Pursuing B.Tech in Electronics and Communication Engineering
 * 💻 Full-Stack Developer | Cybersecurity Enthusiast | DevOps Explorer
 * 🦇 Building impactful projects and continuously upskilling
 * 💖 Open Source 
