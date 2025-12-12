@@ -4,16 +4,18 @@
 * 💻 Full-Stack Developer | Cybersecurity Enthusiast | DevOps Explorer
 * 🦇 Building impactful projects and continuously upskilling
 * 💖 Open Source 
-* Kolkata, India
+* 📍 Kolkata, India
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
 
-
-
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=ff3232&style=flat-square" alt="Profile Views" />
 </div>
+
+---
+
 ## 💻 Tech Stack
 
 ### Frontend
@@ -52,6 +54,22 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 🏆 Achievements & Badges
 
 <div align="center">
@@ -59,25 +77,10 @@
     <img src="https://holopin.me/sumitahmed" alt="Holopin Badge Board" width="100%">
   </a>
 </div>
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sumitahmed&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=ff6e96&text_color=38bdae" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitahmed&theme=dark&hide_border=true&background=1a1b27&ring=bf91f3&fire=ff6e96&currStreakLabel=38bdae" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-
-
+- 🏅 **GitHub 2025 Super Contributor** — Official Badge
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Networking Professional**
+- ☕ **Java Certification** — GeeksforGeeks
 
 ---
 
@@ -104,7 +107,3 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
 </div>
-
----
-
-
