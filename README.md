@@ -2,9 +2,9 @@
 
 * 🎓 B.Tech in Electronics and Communication Engineering
 * 💻 Full-Stack Developer | Cybersecurity Enthusiast | DevOps Explorer
-* 🚀 Building impactful projects and continuously upskilling
-* 🌟 Open Source Contributor
-* 📍 Kolkata, India
+* 🦇 Building impactful projects and continuously upskilling
+* 🌟 Open Source 💖
+* Kolkata, India
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
 
