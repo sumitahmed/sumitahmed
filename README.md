@@ -8,13 +8,9 @@
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=ff3232&style=flat-square" alt="Profile Views" />
 </div>
-
----
 
 ## 💻 Tech Stack
 
@@ -52,8 +48,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
----
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ## 🏆 Achievements & Badges
 
@@ -63,8 +59,6 @@
   </a>
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -72,21 +66,9 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="180" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sumitahmed&theme=calm&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-
----
-
-
-
 ## 🔗 Connect with Me
 
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
@@ -106,3 +88,4 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
 </div>
+
