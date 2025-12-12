@@ -79,11 +79,6 @@
   </a>
 </div>
 
-- 🏅 **GitHub 2025 Super Contributor** — Official Badge
-- ☁️ **Oracle Cloud Infrastructure 2025 Certified Networking Professional**
-- ☕ **Java Certification** — GeeksforGeeks
-
----
 
 ## 🔗 Connect with Me
 
