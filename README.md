@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=ff3232&style=flat-square" alt="Profile Views" />
 </div>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,15 +51,13 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-## 🏆 Achievements & Badges
+##  Achievements & Badges
 
 <div align="center">
   <a href="https://holopin.io/@sumitahmed">
     <img src="https://holopin.me/sumitahmed" alt="Holopin Badge Board" width="100%">
   </a>
 </div>
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sumitahmed&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180" alt="GitHub Stats" />
