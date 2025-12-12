@@ -52,6 +52,14 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
+## 🏆 Achievements & Badges
+
+<div align="center">
+  <a href="https://holopin.io/@sumitahmed">
+    <img src="https://holopin.me/sumitahmed" alt="Holopin Badge Board" width="100%">
+  </a>
+</div>
+---
 
 ## 📊 GitHub Stats
 
@@ -68,13 +76,6 @@
 
 ---
 
-## 🏆 Achievements & Badges
-
-<div align="center">
-  <a href="https://holopin.io/@sumitahmed">
-    <img src="https://holopin.me/sumitahmed" alt="Holopin Badge Board" width="100%">
-  </a>
-</div>
 
 
 
