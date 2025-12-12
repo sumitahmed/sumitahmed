@@ -8,7 +8,7 @@
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
 
-[Buy me a Milktea / 请我喝奶茶](https://www.buymeacoffee.com/sumitahmed)
+
 
 ---
 <div align="center">
