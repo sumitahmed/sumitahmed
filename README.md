@@ -1,133 +1,46 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=260&section=header&text=SK%20SUMIT%20AHMED&fontSize=75&fontColor=7fd6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20DevOps%20%7C%20Cyber%20Security&descAlignY=55&descSize=20&descColor=d66b6b" width="100%" />
-</div>
+<!-- PROFILE OVERVIEW -->
+<p align="center">
+  💻 Full-stack dev • DevOps • Cybersecurity<br>
+  📍 Kolkata, India &nbsp;|&nbsp; <img src="https://komarev.com/ghpvc/?username=sumitahmed&style=flat-square&color=7fd6ff" />
+</p>
 
-<!-- PROFILE VIEW COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=7fd6ff&style=flat-square" />
-</div>
+---
 
-<br>
+<!-- TECH STACK GRID -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,nodejs,react,nextjs,tailwind,html,css,express,mongodb,postgres,mysql,git,docker,linux,vercel,figma,vscode,neovim&theme=dark" alt="Tech Stack" />
+</p>
 
-<!-- INTRO -->
-<div align="center">
-
-### ⚔️ **Hi, I'm Sumit**
-Inspired by disciplined, battle-minded anime characters like **Guren Ichinose**,  
-I build clean, efficient, aesthetic software.
-
-🛠 Full Stack Developer • DevOps • Cyber Security  
-📍 Kolkata, India 🇮🇳  
-
-**_"I build code that looks as good as it runs."_**
-
-</div>
-
-<br>
-
-<!-- BADGES BUTTONS -->
-<div align="center">
-  <a href="https://sumitahmed.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Live-0b0f14?style=for-the-badge&logo=vercel&logoColor=7fd6ff&labelColor=111&borderRadius=6">
-  </a>
-</div>
-
-<br>
-
-<!-- ANIME STYLE DIVIDER -->
-<div align="center">
-  <img src="https://i.imgur.com/0ZQZ0vK.png" width="60%" alt="divider"/>
-</div>
-
-<br>
-
-<!-- ACHIEVEMENTS -->
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://holopin.io/@sumitahmed">
-    <img src="https://holopin.me/sumitahmed" width="100%" alt="Holopin Badges">
-  </a>
-</div>
-
-<br>
-
-<!-- TECH STACK -->
-<div align="center">
-
-## ⚙️ Tech Stack
-
-#### **Languages**
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" /><br><br>
-
-#### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,framer&theme=dark" /><br><br>
-
-#### **Backend & DB**
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgres&theme=dark" /><br><br>
-
-#### **DevOps, Tools & Design**
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,postman,vscode,neovim,figma,ae,ps&theme=dark" />
-
-</div>
-
-<br>
-
-<!-- DIVIDER -->
-<div align="center">
-  <img src="https://i.imgur.com/0ZQZ0vK.png" width="60%" />
-</div>
-
-<br>
+---
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitahmed&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
-<br>
+<!-- LANGUAGE PIE CHART (Alt style) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitahmed&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitahmed&theme=tokyonight" />
+</p>
 
-<!-- SOCIALS -->
-<div align="center">
+---
 
-## 🔗 Connect with Me
+<!-- CONNECT -->
+<p align="center">
+  <a href="https://linkedin.com/in/sk-sumit-ahmed-67a30227b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sksumitahmed007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sumitahmed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/608572578231091240">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="mailto:sksumitahmed007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="https://www.instagram.com/incel.sumit/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="https://twitter.com/sumitkun_">
-  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="https://github.com/sumitahmed">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="https://discord.com/users/608572578231091240">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-</a>
-
-</div>
-
-<br><br>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=120&section=footer" width="100%" />
-  <br>
-  <sub style="color:#98a2aa">© 2025 SK Sumit Ahmed · Optimized for Performance</sub>
-</div>
 
