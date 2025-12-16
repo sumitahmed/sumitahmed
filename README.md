@@ -71,9 +71,6 @@
   <a href="https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="mailto:sksumitahmed007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
-  </a>
   <a href="https://www.instagram.com/incel.sumit/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
   </a>
