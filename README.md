@@ -1,7 +1,7 @@
 # Hi 👋 Sumit here.
 
 * 🎓 Pursuing B.Tech in Electronics and Communication Engineering
-* 💻 Full-Stack Developer | Cybersecurity Enthusiast | DevOps Explorer
+* 💻 Full-Stack Developer | Exploring DevOps & Cybersecurity
 * 🦇 Building impactful projects and continuously upskilling
 * 💕 Open Source 
 * 📍 Kolkata, India
