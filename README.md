@@ -1,9 +1,8 @@
-# Hi 👋 Sumit here.
+# Sup 👋 Sumit here.
 
 * 🎓 Pursuing B.Tech in Electronics and Communication Engineering
-* 💻 Full-Stack Developer | Exploring DevOps & Cybersecurity
+* 💻 Full-Stack Dev| Exploring DevOps & Cybersecurity
 * 🦇 Building impactful projects and continuously upskilling
-* 💕 Open Source 
 * 📍 Kolkata, India
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
