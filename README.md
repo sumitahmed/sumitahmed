@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Sup+%F0%9F%91%8B+Sumit+here;B.Tech+ECE+Student;Full-Stack+Developer+%7C+DevOps+%26+Cybersecurity;Building+impactful+projects;Kolkata%2C+India" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Sup+%F0%9F%91%8B+Sumit+here;B.Tech+ECE+Student;Full-Stack+Developer+%7C+DevOps+%26+Cybersecurity;Building+impactful+projects;Kolkata%2C+India" />
 </p>
+
 
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
