@@ -1,12 +1,5 @@
-
-# Sup 👋 Sumit here.
-
-* 🎓 Pursuing B.Tech in Electronics and Communication Engineering
-* 💻 Full-Stack Dev| Exploring DevOps & Cybersecurity
-* 🦇 Building impactful projects and continuously upskilling
-* 📍 Kolkata, India>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Sup+Sumit+here;B.Tech+ECE+Student;Full-Stack+Developer;Exploring+DevOps+and+Cybersecurity;Kolkata+India" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Sup+%F0%9F%91%8B+Sumit+here;B.Tech+ECE+Student;Full-Stack+Developer+%7C+DevOps+%26+Cybersecurity;Building+impactful+projects;Kolkata%2C+India" />
 </p>
 
 
