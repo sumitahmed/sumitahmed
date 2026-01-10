@@ -87,3 +87,7 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
 </div>
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@sumitahmed.github.readme" alt="Profile Views" />
+</div>
