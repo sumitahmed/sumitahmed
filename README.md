@@ -5,6 +5,9 @@
 * 💻 Full-Stack Dev| Exploring DevOps & Cybersecurity
 * 🦇 Building impactful projects and continuously upskilling
 * 📍 Kolkata, India>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Sup+Sumit+here;B.Tech+ECE+Student;Full-Stack+Developer;Exploring+DevOps+and+Cybersecurity;Kolkata+India" />
+</p>
 
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
