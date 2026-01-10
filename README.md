@@ -1,18 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=24&
-pause=900&
-color=00E5FF&
-center=true&
-vCenter=true&
-width=900&
-lines=Sup+👋+Sumit+here.;
-🎓+Pursuing+B.Tech+in+Electronics+and+Communication+Engineering;
-💻+Full-Stack+Dev+%7C+Exploring+DevOps+%26+Cybersecurity;
-🦇+Building+impactful+projects+and+continuously+upskilling;
-📍+Kolkata%2C+India" />
-</p>
+
+# Sup 👋 Sumit here.
+
+* 🎓 Pursuing B.Tech in Electronics and Communication Engineering
+* 💻 Full-Stack Dev| Exploring DevOps & Cybersecurity
+* 🦇 Building impactful projects and continuously upskilling
+* 📍 Kolkata, India>
 
 
 [Portfolio](https://sumitahmed.github.io/) · [LinkedIn](https://www.linkedin.com/in/sk-sumit-ahmed-67a30227b/) · [Email](mailto:sksumitahmed007@gmail.com)
