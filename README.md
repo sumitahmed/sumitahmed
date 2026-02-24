@@ -102,8 +102,8 @@
 <div align="center" style="align-items: center">
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=608572578231091240)](https://discord.com/users/608572578231091240)
-
 </div>
+
 ---
 
 ## Achievements & Badges
