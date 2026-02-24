@@ -80,31 +80,9 @@
 ## GitHub
 
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-<strong>sumitahmed's GitHub Stats</strong>
-
-<br/><br/>
-
 <img src="https://github-readme-stats.oto.im/api?username=sumitahmed&show_icons=true&count_private=true&theme=onedark" />
 
-</td>
-
-<td>
-
-<strong>Most Used Languages</strong>
-
-<br/><br/>
-
 <img src="https://github-readme-stats.oto.im/api/top-langs/?username=sumitahmed&langs_count=10&layout=compact&theme=onedark" />
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
