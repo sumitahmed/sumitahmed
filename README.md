@@ -18,19 +18,27 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="300">
-
-<strong>I am a ...</strong>
-
-<br/><br/>
-
-Full-stack developer || Exploring DevOps & CyberSec 
-Open to OSS    
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 12px 20px;">
+      <strong>I am a ...</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 6px 20px;">
+      Full-stack developer
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 6px 20px;">
+      Exploring DevOps & CyberSec
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 6px 20px;">
+      Open to OSS
+    </td>
+  </tr>
 </table>
 
 </div>
