@@ -96,6 +96,7 @@
 </div>
 
 ---
+
 ### Discord
 
 <div align="center" style="align-items: center">
@@ -104,6 +105,7 @@
 
 </div>
 ---
+
 ## Achievements & Badges
 
 <div align="center">
