@@ -99,9 +99,10 @@
 
 ### Discord
 
-<div align="center" style="align-items: center">
+<div align="center">
 
-[![Discord](https://discord-readme-badge.vercel.app/api?id=608572578231091240)](https://discord.com/users/608572578231091240)
+[![Discord](https://img.shields.io/badge/Discord-608572578231091240-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/608572578231091240)
+
 </div>
 
 ---
