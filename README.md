@@ -44,7 +44,7 @@
 </div>
 
 <p align="center">
-  My portfolio: <a href="https://sumitahmed.github.io/">https://sumitahmed.github.io/</a>
+  My portfolio: <a href="https://sumitahmed.me">https://sumitahmed.github.io/</a>
 </p>
 
 ---
