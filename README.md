@@ -90,16 +90,20 @@
 ## GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.oto.im/api?username=sumitahmed&show_icons=true&count_private=true&theme=onedark" />
 
-<img src="https://github-readme-stats.oto.im/api/top-langs/?username=sumitahmed&langs_count=10&layout=compact&theme=onedark" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&langs_count=10&layout=compact&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumitahmed&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
+
 </div>
 
 ---
 
 ### Discord
 
-<div align="center" style="align-items: center">
+<div align="center">
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=608572578231091240)](https://discord.com/users/608572578231091240)
 
