@@ -91,9 +91,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitahmed&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
+[![GitHub Stats](https://github-readme-stats-nine-plum-31.vercel.app/api?username=sumitahmed&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitahmed&langs_count=10&layout=compact&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
+[![Top Languages](https://github-readme-stats-nine-plum-31.vercel.app/api/top-langs/?username=sumitahmed&langs_count=10&layout=compact&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sumitahmed&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
 
