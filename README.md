@@ -99,6 +99,18 @@
 
 </div>
 
+---
+
+## Achievements & Badges
+
+<div align="center">
+  <a href="https://holopin.io/@sumitahmed">
+    <img src="https://holopin.me/sumitahmed" width="100%" />
+  </a>
+</div>
+
+---
+
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
@@ -152,15 +164,6 @@ No Activity Tracked This Week
 
 ---
 
-## Achievements & Badges
-
-<div align="center">
-  <a href="https://holopin.io/@sumitahmed">
-    <img src="https://holopin.me/sumitahmed" width="100%" />
-  </a>
-</div>
-
----
 
 ## Connect with Me
 
