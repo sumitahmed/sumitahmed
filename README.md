@@ -114,12 +114,44 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+🌆 Daytime                427 commits         ████████░░░░░░░░░░░░░░░░░   31.05 % 
+🌃 Evening                738 commits         █████████████░░░░░░░░░░░░   53.67 % 
+🌙 Night                  84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   310 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Wednesday                203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Thursday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Friday                   189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Sunday                   310 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 13 mins       ██████████████████░░░░░░░   70.41 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Objective-C              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 18:18:57 UTC
+ Last Updated on 20/05/2026 03:49:30 UTC
 <!--END_SECTION:waka-->
 
 ---
