@@ -114,7 +114,7 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2034%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -153,7 +153,7 @@ Objective-C              11 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 05:13:40 UTC
+ Last Updated on 21/05/2026 04:01:24 UTC
 <!--END_SECTION:waka-->
 
 ---
