@@ -75,6 +75,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### AI / ML & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### Tools & IDEs 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) 
@@ -95,7 +101,7 @@
 
 [![Top Languages](https://github-readme-stats-nine-plum-31.vercel.app/api/top-langs/?username=sumitahmed&langs_count=10&layout=compact&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sumitahmed&theme=onedark&cache_seconds=1800)](https://github.com/sumitahmed)
+[![GitHub Streak](https://github-readme-streak-stats-blush-gamma.vercel.app?user=sumitahmed&theme=onedark)](https://github.com/sumitahmed)
 
 </div>
 
@@ -114,46 +120,6 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%207%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-🌆 Daytime                428 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌃 Evening                745 commits         █████████████░░░░░░░░░░░░   53.75 % 
-🌙 Night                  84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   310 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Wednesday                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Thursday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Friday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Sunday                   310 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 52 mins       ████████████████░░░░░░░░░   64.98 % 
-Java                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
-
-
- Last Updated on 23/05/2026 03:32:46 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -167,7 +133,6 @@ Text                     0 secs              ░░░░░░░░░░░�
 </div>
 
 ---
-
 
 ## Connect with Me
 
