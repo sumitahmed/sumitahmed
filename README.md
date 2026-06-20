@@ -120,7 +120,7 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -147,8 +147,8 @@ Sunday                   324 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 56 mins        █████████████████████░░░░   82.90 % 
-Git Config               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Markdown                 6 hrs 41 mins       ████████████████████████░   94.35 % 
+Git Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 
 **Timeline**
@@ -156,7 +156,7 @@ Git Config               24 mins             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 04:33:08 UTC
+ Last Updated on 20/06/2026 03:58:34 UTC
 <!--END_SECTION:waka-->
 
 ---
