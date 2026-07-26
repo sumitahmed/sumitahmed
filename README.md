@@ -120,12 +120,46 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2031%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+🌆 Daytime                470 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+🌃 Evening                918 commits         ██████████████░░░░░░░░░░░   54.58 % 
+🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   420 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Tuesday                  235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Thursday                 92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Friday                   211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Sunday                   373 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
+Markdown                 2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Java                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:51:39 UTC
+ Last Updated on 26/07/2026 03:00:13 UTC
 <!--END_SECTION:waka-->
 
 ---
