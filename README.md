@@ -120,26 +120,28 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-🌆 Daytime                470 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                946 commits         ██████████████░░░░░░░░░░░   55.32 % 
-🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌞 Morning                173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+🌆 Daytime                470 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌃 Evening                974 commits         ██████████████░░░░░░░░░░░   56.04 % 
+🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   420 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Tuesday                  235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Friday                   211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Sunday                   401 commits         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Monday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Tuesday                  235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Thursday                 92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Friday                   211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Sunday                   401 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 ```
 
 
@@ -147,11 +149,36 @@ Sunday                   401 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Java                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-TypeScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-HTML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Markdown                 1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Java                     54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+HTML                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+TypeScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+CSS                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 1 min (96.78%)
+
+✍️ 1,051 lines written by AI, 109 lines written by hand (90.6% AI-written)
+
+🔤 454,989 Input Tokens, 4,709 Output Tokens
+
+💵 $2.11 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 53 AI Prompts
+
+Gemini                   959 lines           ██████████████████████░░░   88.47 % 
+Github-Copilot           96 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Sonnet                   29 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.6% of written lines came from AI
+📄 Detailed Prompter — average 714 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 10.49% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -159,7 +186,7 @@ JavaScript               33 mins             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:26:45 UTC
+ Last Updated on 28/07/2026 02:43:50 UTC
 <!--END_SECTION:waka-->
 
 ---
