@@ -127,21 +127,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-🌆 Daytime                482 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-🌃 Evening                984 commits         ██████████████░░░░░░░░░░░   55.91 % 
-🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+🌞 Morning                177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                482 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+🌃 Evening                990 commits         ██████████████░░░░░░░░░░░   55.93 % 
+🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Tuesday                  253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Friday                   211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Sunday                   401 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Monday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Tuesday                  253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Friday                   211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Sunday                   401 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 ```
 
 
@@ -149,17 +149,17 @@ Sunday                   401 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
-TypeScript               55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-CSS                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Java                     1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   36.32 % 
+TypeScript               37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+CSS                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (91.97%)
+⏱ AI Coding Time: 3 hrs 6 mins (91.27%)
 
 ✍️ 440 lines written by AI, 268 lines written by hand (62.15% AI-written)
 
@@ -167,7 +167,7 @@ Other                    14 mins             ██░░░░░░░░░�
 
 💵 $1.10 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 46 AI Prompts
+🧠 9 AI Sessions, 43 AI Prompts
 
 Gemini                   270 lines           ██████████████░░░░░░░░░░░   57.32 % 
 Github-Copilot           172 lines           █████████░░░░░░░░░░░░░░░░   36.52 % 
@@ -176,7 +176,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 62.15% of written lines came from AI
-📝 Concise Prompter — average 420 characters per prompt
+📝 Concise Prompter — average 440 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 40.08% of changed lines were hand-edited
 ```
@@ -186,7 +186,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:37:35 UTC
+ Last Updated on 31/07/2026 03:02:30 UTC
 <!--END_SECTION:waka-->
 
 ---
