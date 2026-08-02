@@ -149,34 +149,33 @@ Sunday                   401 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     19 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
-Other                    12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-JSON                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-TypeScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Java                     18 mins             ████████████░░░░░░░░░░░░░   48.69 % 
+JSON                     11 mins             ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+TypeScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (82.33%)
+⏱ AI Coding Time: 29 mins (75.63%)
 
-✍️ 208 lines written by AI, 159 lines written by hand (56.68% AI-written)
+✍️ 208 lines written by AI, 136 lines written by hand (60.47% AI-written)
 
 🔤 29,520 Input Tokens, 167 Output Tokens
 
 💵 $0.09 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 Gemini                   135 lines           ████████████████░░░░░░░░░   63.98 % 
 Github-Copilot           76 lines            █████████░░░░░░░░░░░░░░░░   36.02 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.68% of written lines came from AI
-📄 Detailed Prompter — average 595 characters per prompt
+⚖️ Balanced with AI — 60.47% of written lines came from AI
+📝 Concise Prompter — average 143 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 47.12% of changed lines were hand-edited
+🚀 High AI Trust — 40.23% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -184,7 +183,7 @@ Github-Copilot           76 lines            █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 03:00:41 UTC
+ Last Updated on 02/08/2026 03:00:13 UTC
 <!--END_SECTION:waka-->
 
 ---
