@@ -127,21 +127,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-🌆 Daytime                488 commits         ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-🌃 Evening                990 commits         ██████████████░░░░░░░░░░░   55.56 % 
-🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+🌞 Morning                183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌆 Daytime                488 commits         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+🌃 Evening                994 commits         ██████████████░░░░░░░░░░░   55.66 % 
+🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Tuesday                  253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Thursday                 102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Friday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Sunday                   407 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Monday                   452 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Tuesday                  253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Wednesday                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Friday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Sunday                   407 commits         ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
 ```
 
 
@@ -149,33 +149,34 @@ Sunday                   407 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     18 mins             ████████████░░░░░░░░░░░░░   48.69 % 
-JSON                     11 mins             ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-TypeScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Python                   56 mins             ██████████████░░░░░░░░░░░   54.45 % 
+Java                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (75.63%)
+⏱ AI Coding Time: 1 hr 34 mins (90.92%)
 
-✍️ 208 lines written by AI, 136 lines written by hand (60.47% AI-written)
+✍️ 209 lines written by AI, 137 lines written by hand (60.4% AI-written)
 
 🔤 29,520 Input Tokens, 167 Output Tokens
 
 💵 $0.09 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 4 AI Sessions, 22 AI Prompts
 
-Gemini                   135 lines           ████████████████░░░░░░░░░   63.98 % 
-Github-Copilot           76 lines            █████████░░░░░░░░░░░░░░░░   36.02 % 
+Gemini                   162 lines           █████████████████░░░░░░░░   68.07 % 
+Github-Copilot           76 lines            ████████░░░░░░░░░░░░░░░░░   31.93 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.47% of written lines came from AI
-📝 Concise Prompter — average 143 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 40.23% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.4% of written lines came from AI
+📄 Detailed Prompter — average 912 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 37.53% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -183,7 +184,7 @@ Github-Copilot           76 lines            █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 03:01:50 UTC
+ Last Updated on 04/08/2026 02:44:34 UTC
 <!--END_SECTION:waka-->
 
 ---
