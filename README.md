@@ -120,71 +120,12 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2029%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2058%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-🌆 Daytime                488 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-🌃 Evening                994 commits         ██████████████░░░░░░░░░░░   55.41 % 
-🌙 Night                  121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   452 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Wednesday                258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Friday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Sunday                   407 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       █████████████░░░░░░░░░░░░   52.27 % 
-Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 16 mins (99.83%)
-
-✍️ 1,121 lines written by AI, 6 lines written by hand (99.47% AI-written)
-
-🔤 12,739,033 Input Tokens, 50,598 Output Tokens
-
-💵 $65.21 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 48 AI Prompts
-
-GPT                      844 lines           █████████████████░░░░░░░░   69.81 % 
-Gemini                   365 lines           ████████░░░░░░░░░░░░░░░░░   30.19 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.47% of written lines came from AI
-📄 Detailed Prompter — average 1,127 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.66% of changed lines were hand-edited
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:45:58 UTC
+ Last Updated on 07/08/2026 02:50:27 UTC
 <!--END_SECTION:waka-->
 
 ---
