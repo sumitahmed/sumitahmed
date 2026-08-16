@@ -149,37 +149,37 @@ Sunday                   409 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 13 mins      ███████████████████░░░░░░   76.87 % 
-Markdown                 4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               14 hrs 37 mins      █████████████████████░░░░   82.25 % 
+Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 47 mins (99.95%)
+⏱ AI Coding Time: 17 hrs 38 mins (99.31%)
 
-✍️ 2,851 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,666 lines written by AI, 29 lines written by hand (98.92% AI-written)
 
-🔤 1,658,610 Input Tokens, 97,837 Output Tokens
+🔤 7,378,574 Input Tokens, 249,780 Output Tokens
 
-💵 $10.01 Estimated AI Cost This Week
+💵 $47.31 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 177 AI Prompts
+🧠 19 AI Sessions, 149 AI Prompts
 
-Gemini                   3,384 lines         █████████████████████████   99.97 % 
-GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-R                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   3,405 lines         ████████████████████████░   94.95 % 
+GPT                      172 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Opus                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,001 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.92% of written lines came from AI
+📚 Verbose Prompter — average 2,628 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.8% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -187,7 +187,7 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 01:23:44 UTC
+ Last Updated on 16/08/2026 01:29:44 UTC
 <!--END_SECTION:waka-->
 
 ---
