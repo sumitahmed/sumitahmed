@@ -120,9 +120,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -149,37 +149,37 @@ Sunday                   411 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 hrs 28 mins      █████████████████░░░░░░░░   67.24 % 
-Markdown                 7 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Other                    4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Text                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Java                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               35 hrs 4 mins       █████████████████░░░░░░░░   66.14 % 
+Markdown                 8 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Other                    5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Bash                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Text                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 2 mins (98.19%)
+⏱ AI Coding Time: 51 hrs 37 mins (97.33%)
 
-✍️ 22,097 lines written by AI, 200 lines written by hand (99.1% AI-written)
+✍️ 24,797 lines written by AI, 213 lines written by hand (99.15% AI-written)
 
-🔤 116,733,353 Input Tokens, 1,698,007 Output Tokens
+🔤 130,695,073 Input Tokens, 1,972,833 Output Tokens
 
-💵 $712.08 Estimated AI Cost This Week
+💵 $818.45 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 326 AI Prompts
+🧠 47 AI Sessions, 388 AI Prompts
 
-GPT                      22,151 lines        ████████████████████████░   96.08 % 
-Gemini                   903 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+GPT                      24,642 lines        ████████████████████████░   95.33 % 
+Gemini                   1,180 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Codex-Vscode             28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.1% of written lines came from AI
-📚 Verbose Prompter — average 3,011 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.93% of changed lines were hand-edited
+🤖 AI-Driven — 99.15% of written lines came from AI
+📚 Verbose Prompter — average 2,850 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -187,7 +187,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sumitahmed/sumitahmed/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 04:16:06 UTC
+ Last Updated on 31/08/2026 04:21:53 UTC
 <!--END_SECTION:waka-->
 
 ---
