@@ -51,7 +51,7 @@ understanding how they work, and making them better.
 </p>
 
 <p>
-&nbsp;&nbsp;I mostly build <b>Web & AI systems, developer tools, personal projects,
+&nbsp;&nbsp;I mostly build <b>Web & AI systems, developer tools, personal or OSS projects,
 and freelance work.</b>
 </p>
 
