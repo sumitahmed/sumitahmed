@@ -6,13 +6,6 @@ on:
 
   workflow_dispatch:
 
-  # Temporary self-test trigger; removed after verification.
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/waka-readme.yml"
-
 permissions:
   contents: write
 
