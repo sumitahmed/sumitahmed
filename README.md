@@ -22,21 +22,23 @@
 <br>
 
 <img
-  align="left"
-  width="47%"
-  src="./assets/profile-hero.jpg"
+  src="https://raw.githubusercontent.com/sumitahmed/sumitahmed/test/assets/profile-hero.jpg"
   alt="Profile artwork"
+  width="42%"
+  align="left"
 />
 
-<h2>Hi, I'm Sumit.</h2>
+## Hi, I'm Sumit.
 
-I like building things from scratch — and taking existing systems apart, understanding how they work, and making them better.
+I like building things from scratch — and also taking existing systems apart, understanding how they work, and improving them.
 
-I mostly work on **web systems, developer tools and open-source projects**, while exploring cybersecurity along the way.
+I mostly work on building **Web & AI systems, developer tools, personal projects, and freelance work**.
+
+When I’m not building, I’m usually either planning the next project, researching something interesting, or watching anime.
 
 <br>
 
-<b>Languages</b>
+**Languages**
 
 <br><br>
 
@@ -48,7 +50,7 @@ I mostly work on **web systems, developer tools and open-source projects**, whil
 
 <br><br>
 
-<b>Web & Backend</b>
+**Web & Backend**
 
 <br><br>
 
@@ -62,7 +64,7 @@ I mostly work on **web systems, developer tools and open-source projects**, whil
 
 <br><br>
 
-<b>Data & Tooling</b>
+**Data & Tooling**
 
 <br><br>
 
@@ -71,9 +73,9 @@ I mostly work on **web systems, developer tools and open-source projects**, whil
 <code>MongoDB</code>
 <code>Docker</code>
 
-<br clear="left">
-<br><br>
+<br clear="left" />
 
+<br>
 
 <details>
 <summary><b>📊 GitHub Stats & Achievements</b></summary>
@@ -123,22 +125,18 @@ I mostly work on **web systems, developer tools and open-source projects**, whil
 
 <br>
 
-
 <details>
 <summary><b>⌨️ WakaTime Stats</b></summary>
 
 <br>
 
 <!--START_SECTION:waka-->
-
 WakaTime stats will appear here after the workflow runs.
-
 <!--END_SECTION:waka-->
 
 </details>
 
-<br><br>
-
+<br>
 
 ## Discord
 
@@ -149,7 +147,6 @@ WakaTime stats will appear here after the workflow runs.
 </div>
 
 <br>
-
 
 ## Connect with Me
 
