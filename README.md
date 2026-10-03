@@ -156,7 +156,14 @@ interesting, or watching anime.
 <br>
 
 <!--START_SECTION:waka-->
-WakaTime stats will appear here after the workflow runs.
+📊 **This Week I Spent My Time On** 
+
+💬 Programming Languages: 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E9DED1">Markdown</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#B8A79D">7 hrs 42 mins</text><rect x="280" y="6" width="360" height="8" rx="3" fill="#2B2725"/><rect x="280" y="6" width="113" height="8" rx="3" fill="#8E796D"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#B8A79D">31.41%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E9DED1">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#B8A79D">5 hrs 20 mins</text><rect x="280" y="30" width="360" height="8" rx="3" fill="#2B2725"/><rect x="280" y="30" width="78" height="8" rx="3" fill="#8E796D"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#B8A79D">21.77%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E9DED1">Python</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#B8A79D">5 hrs 2 mins</text><rect x="280" y="54" width="360" height="8" rx="3" fill="#2B2725"/><rect x="280" y="54" width="74" height="8" rx="3" fill="#8E796D"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#B8A79D">20.53%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E9DED1">JavaScript</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#B8A79D">2 hrs 27 mins</text><rect x="280" y="78" width="360" height="8" rx="3" fill="#2B2725"/><rect x="280" y="78" width="36" height="8" rx="3" fill="#8E796D"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#B8A79D">9.98%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#E9DED1">Bash</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#B8A79D">1 hr 13 mins</text><rect x="280" y="102" width="360" height="8" rx="3" fill="#2B2725"/><rect x="280" y="102" width="18" height="8" rx="3" fill="#8E796D"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#B8A79D">4.98%</text></svg>
+
+
+
+ Last Updated on 03/10/2026 07:28:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
