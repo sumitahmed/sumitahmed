@@ -99,6 +99,80 @@ interesting, or watching anime.
 
 <br>
 
+<h3>Projects</h3>
+
+<p>
+I'm currently building <b>Panvas</b> and <b>FreeCompute</b> — one focused on local-first Study/Research Workspace give it a try, the other on making free cloud GPUs actually useful so you can run your unfiltered AI agents on them locally.
+</p>
+
+<br>
+
+### Panvas
+
+> A local-first visual workspace for structured notes, handwriting, PDFs, and spatial thinking.
+
+<a href="https://github.com/sumitahmed/Panvas">
+  <img src="https://img.shields.io/github/stars/sumitahmed/Panvas?style=flat-square&label=stars&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="Panvas Stars" />
+</a>
+<a href="https://github.com/sumitahmed/Panvas/forks">
+  <img src="https://img.shields.io/github/forks/sumitahmed/Panvas?style=flat-square&label=forks&labelColor=574B45&color=75645B&logo=git&logoColor=F3E9DD" alt="Panvas Forks" />
+</a>
+<a href="https://github.com/sumitahmed/Panvas/commits/main">
+  <img src="https://img.shields.io/github/commit-activity/t/sumitahmed/Panvas?style=flat-square&label=commits&labelColor=574B45&color=75645B&logo=git&logoColor=F3E9DD" alt="Panvas Commits" />
+</a>
+<a href="https://github.com/sumitahmed/Panvas/issues">
+  <img src="https://img.shields.io/github/issues/sumitahmed/Panvas?style=flat-square&label=issues&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="Panvas Issues" />
+</a>
+<a href="https://github.com/sumitahmed/Panvas/commits/main">
+  <img src="https://img.shields.io/github/last-commit/sumitahmed/Panvas?style=flat-square&label=updated&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="Panvas Last Commit" />
+</a>
+
+<br><br>
+
+### FreeCompute
+
+> Run open-source LLMs and image models on free cloud GPUs while controlling them directly from your local terminal.
+
+<a href="https://github.com/sumitahmed/FreeCompute">
+  <img src="https://img.shields.io/github/stars/sumitahmed/FreeCompute?style=flat-square&label=stars&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="FreeCompute Stars" />
+</a>
+<a href="https://github.com/sumitahmed/FreeCompute/forks">
+  <img src="https://img.shields.io/github/forks/sumitahmed/FreeCompute?style=flat-square&label=forks&labelColor=574B45&color=75645B&logo=git&logoColor=F3E9DD" alt="FreeCompute Forks" />
+</a>
+<a href="https://github.com/sumitahmed/FreeCompute/commits/main">
+  <img src="https://img.shields.io/github/commit-activity/t/sumitahmed/FreeCompute?style=flat-square&label=commits&labelColor=574B45&color=75645B&logo=git&logoColor=F3E9DD" alt="FreeCompute Commits" />
+</a>
+<a href="https://github.com/sumitahmed/FreeCompute/issues">
+  <img src="https://img.shields.io/github/issues/sumitahmed/FreeCompute?style=flat-square&label=issues&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="FreeCompute Issues" />
+</a>
+<a href="https://github.com/sumitahmed/FreeCompute/commits/main">
+  <img src="https://img.shields.io/github/last-commit/sumitahmed/FreeCompute?style=flat-square&label=updated&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="FreeCompute Last Commit" />
+</a>
+
+<br><br>
+
+### TabBridge
+
+> A lightweight browser extension for moving tab groups between Chrome, Brave, Edge, and other Chromium browsers.
+
+<a href="https://github.com/sumitahmed/TabBridge">
+  <img src="https://img.shields.io/github/stars/sumitahmed/TabBridge?style=flat-square&label=stars&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="TabBridge Stars" />
+</a>
+<a href="https://github.com/sumitahmed/TabBridge/forks">
+  <img src="https://img.shields.io/github/forks/sumitahmed/TabBridge?style=flat-square&label=forks&labelColor=574B45&color=75645B&logo=git&logoColor=F3E9DD" alt="TabBridge Forks" />
+</a>
+<a href="https://github.com/sumitahmed/TabBridge/commits/main">
+  <img src="https://img.shields.io/github/commit-activity/t/sumitahmed/TabBridge?style=flat-square&label=commits&labelColor=574B45&color=75645B&logo=git&logoColor=F3E9DD" alt="TabBridge Commits" />
+</a>
+<a href="https://github.com/sumitahmed/TabBridge/issues">
+  <img src="https://img.shields.io/github/issues/sumitahmed/TabBridge?style=flat-square&label=issues&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="TabBridge Issues" />
+</a>
+<a href="https://github.com/sumitahmed/TabBridge/commits/main">
+  <img src="https://img.shields.io/github/last-commit/sumitahmed/TabBridge?style=flat-square&label=updated&labelColor=574B45&color=75645B&logo=github&logoColor=F3E9DD" alt="TabBridge Last Commit" />
+</a>
+
+<br><br>
+
 <details>
 <summary>
   <img src="https://cdn.simpleicons.org/github/C7B7AD" width="16" height="16" alt="GitHub" />
