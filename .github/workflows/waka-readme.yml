@@ -1,23 +1,148 @@
 name: Waka Readme
+
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-wakatime:
+    name: Update WakaTime Stats
     runs-on: ubuntu-latest
+
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+
+          PULL_BRANCH_NAME: ${{ github.ref_name }}
+          PUSH_BRANCH_NAME: ${{ github.ref_name }}
+
+          SECTION_NAME: "waka"
+
+          # Keep the expanded WakaTime section compact.
+          SHOW_TOTAL_CODE_TIME: "False"
+
+          # Absolutely no AI stats.
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
+
+          # Weekly language activity.
+          SHOW_LANGUAGE: "True"
+
+          # Remove everything unnecessary.
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+
+          SHOW_UPDATED_DATE: "True"
+
+          # Match the profile palette.
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#8E796D"
+          BAR_TRACK_COLOR: "#2B2725"
+          BAR_RADIUS: "3"
+
+          TEXT_PRIMARY_COLOR: "#E9DED1"
+          TEXT_SECONDARY_COLOR: "#B8A79D"
+
+  update-code-time:
+    name: Update Code Time
+    needs: update-wakatime
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Fetch WakaTime total
+        shell: bash
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          set -euo pipefail
+
+          curl -fsS \
+            -u "${WAKATIME_API_KEY}:" \
+            "https://wakatime.com/api/v1/users/current/all_time_since_today" \
+            -o /tmp/wakatime.json
+
+          python - <<'PY'
+          import json
+          import pathlib
+          import urllib.parse
+
+          payload = json.loads(
+              pathlib.Path("/tmp/wakatime.json").read_text(encoding="utf-8")
+          )
+
+          code_time = payload["data"]["text"]
+
+          encoded = urllib.parse.quote(code_time, safe="")
+
+          badge = (
+              '<img '
+              'src="https://img.shields.io/badge/'
+              f'Code%20Time-{encoded}-75645B'
+              '?style=flat-square'
+              '&logo=wakatime'
+              '&logoColor=F3E9DD'
+              '&labelColor=574B45" '
+              'alt="Code Time" '
+              '/>'
+          )
+
+          readme = pathlib.Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+
+          start = "<!--START_SECTION:waka_header-->"
+          end = "<!--END_SECTION:waka_header-->"
+
+          if start not in content or end not in content:
+              raise SystemExit("waka_header markers were not found")
+
+          before, rest = content.split(start, 1)
+          _, after = rest.split(end, 1)
+
+          content = (
+              before
+              + start
+              + "\n"
+              + badge
+              + "\n"
+              + end
+              + after
+          )
+
+          readme.write_text(content, encoding="utf-8")
+          PY
+
+      - name: Commit Code Time
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No Code Time change."
+            exit 0
+          fi
+
+          git commit -m "chore: update WakaTime code time"
+          git push
