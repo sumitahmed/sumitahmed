@@ -100,13 +100,10 @@ interesting, or watching anime.
 <br>
 
 <h3>Projects</h3>
-
 <p>
 I'm currently building <b>Panvas</b> and <b>FreeCompute</b> — one focused on local-first Study/Research Workspace give it a try, the other on making free cloud GPUs actually useful so you can run your unfiltered AI agents on them locally.
 </p>
-
 <br>
-
 ### Panvas
 
 > A local-first visual workspace for structured notes, handwriting, PDFs, and spatial thinking.
