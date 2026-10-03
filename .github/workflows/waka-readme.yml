@@ -6,6 +6,13 @@ on:
 
   workflow_dispatch:
 
+  # Temporary self-test trigger; removed after verification.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/waka-readme.yml"
+
 permissions:
   contents: write
 
@@ -46,7 +53,7 @@ jobs:
 
           SHOW_UPDATED_DATE: "True"
 
-          BAR_STYLE: "svg"
+          BAR_STYLE: "text"
           BAR_COLOR: "#8E796D"
           BAR_TRACK_COLOR: "#2B2725"
           BAR_RADIUS: "3"
