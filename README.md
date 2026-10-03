@@ -43,7 +43,7 @@
   align="left"
 />
 
-<h3>&nbsp;&nbsp;Hi, I'm Sumit.</h3>
+<h3>&nbsp;&nbsp;Sup, I'm Sumit.</h3>
 
 <p>
 &nbsp;&nbsp;I like building things from scratch — and taking existing systems apart,
