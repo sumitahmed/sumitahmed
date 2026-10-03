@@ -3,15 +3,23 @@
 <div align="center">
 
 <a href="https://sumitahmed.me">
-  <img src="https://img.shields.io/badge/Portfolio-sumitahmed.me-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img
+    src="https://img.shields.io/badge/Portfolio-sumitahmed.me-181717?style=flat-square&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
-&nbsp;
+
 <a href="https://twitter.com/sumitkun_">
-  <img src="https://img.shields.io/badge/X-@sumitkun__-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  <img
+    src="https://img.shields.io/badge/X-@sumitkun__-000000?style=flat-square&logo=x&logoColor=white"
+    alt="X"
+  />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=555555&style=flat-square" alt="Profile Views" />
-&nbsp;
+
+<img
+  src="https://komarev.com/ghpvc/?username=sumitahmed&label=Profile%20Views&color=555555&style=flat-square"
+  alt="Profile Views"
+/>
 
 <!--START_SECTION:waka_header-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-updating...-blue?style=flat-square)
@@ -22,23 +30,23 @@
 <br>
 
 <img
-  src="https://raw.githubusercontent.com/sumitahmed/sumitahmed/test/assets/profile-hero.jpg"
+  src="./assets/profile-hero.jpg"
   alt="Profile artwork"
-  width="42%"
+  width="380"
   align="left"
 />
 
-## Hi, I'm Sumit.
+<h3>Hi, I'm Sumit.</h3>
 
-I like building things from scratch — and also taking existing systems apart, understanding how they work, and improving them.
+I like building things from scratch — and taking existing systems apart, understanding how they work, and making them better.
 
-I mostly work on building **Web & AI systems, developer tools, personal projects, and freelance work**.
+I mostly work on <b>Web & AI systems, developer tools, personal projects, and freelance work.</b>
 
-When I’m not building, I’m usually either planning the next project, researching something interesting, or watching anime.
+When I'm not building something, I'm probably planning the next project, researching whatever caught my interest, or watching anime.
 
-<br>
+<br><br>
 
-**Languages**
+<b>Languages</b>
 
 <br><br>
 
@@ -50,7 +58,7 @@ When I’m not building, I’m usually either planning the next project, researc
 
 <br><br>
 
-**Web & Backend**
+<b>Web & Backend</b>
 
 <br><br>
 
@@ -64,7 +72,7 @@ When I’m not building, I’m usually either planning the next project, researc
 
 <br><br>
 
-**Data & Tooling**
+<b>Data & Tooling</b>
 
 <br><br>
 
@@ -73,11 +81,12 @@ When I’m not building, I’m usually either planning the next project, researc
 <code>MongoDB</code>
 <code>Docker</code>
 
-<br clear="left" />
+<br clear="left">
 
-<br>
+<br><br>
 
 <details>
+
 <summary><b>📊 GitHub Stats & Achievements</b></summary>
 
 <br>
@@ -126,6 +135,7 @@ When I’m not building, I’m usually either planning the next project, researc
 <br>
 
 <details>
+
 <summary><b>⌨️ WakaTime Stats</b></summary>
 
 <br>
@@ -136,19 +146,24 @@ WakaTime stats will appear here after the workflow runs.
 
 </details>
 
-<br>
+<br><br>
 
-## Discord
+<h3>Discord</h3>
 
 <div align="center">
 
-[![Discord](https://discord-readme-badge.vercel.app/api?id=608572578231091240)](https://discord.com/users/608572578231091240)
+<a href="https://discord.com/users/608572578231091240">
+  <img
+    src="https://discord-readme-badge.vercel.app/api?id=608572578231091240"
+    alt="Discord"
+  />
+</a>
 
 </div>
 
 <br>
 
-## Connect with Me
+<h3>Connect with Me</h3>
 
 <div align="center">
 
