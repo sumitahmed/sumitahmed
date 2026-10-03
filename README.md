@@ -103,7 +103,10 @@ interesting, or watching anime.
 <br>
 
 <details>
-<summary><b>📊 GitHub Stats & Achievements</b></summary>
+<summary>
+  <img src="https://cdn.simpleicons.org/github/C7B7AD" width="16" height="16" alt="GitHub" />
+  &nbsp;<b>GitHub Stats & Achievements</b>
+</summary>
 
 <br>
 
@@ -145,7 +148,10 @@ interesting, or watching anime.
 <br>
 
 <details>
-<summary><b>⌨️ WakaTime Stats</b></summary>
+<summary>
+  <img src="https://cdn.simpleicons.org/wakatime/C7B7AD" width="16" height="16" alt="WakaTime" />
+  &nbsp;<b>WakaTime Stats</b>
+</summary>
 
 <br>
 
