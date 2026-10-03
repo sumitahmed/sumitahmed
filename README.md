@@ -37,32 +37,33 @@
 
 </div>
 
-<br>
+<br><br>
 
-<p align="center">
-  <img
-    src="./assets/profile-hero.jpg"
-    width="100%"
-    alt="Profile artwork"
-  />
-</p>
+<img
+  src="./assets/profile-hero.jpg"
+  alt="Profile artwork"
+  width="46%"
+  align="left"
+/>
 
-<h3>Hi, I'm Sumit.</h3>
+<h3>&nbsp;&nbsp;Hi, I'm Sumit.</h3>
 
 <p>
-I like building things from scratch — and taking existing systems apart,
+&nbsp;&nbsp;I like building things from scratch — and taking existing systems apart,
 understanding how they work, and making them better.
 </p>
 
 <p>
-I mostly work on <b>Web & AI systems, developer tools, personal projects,
+&nbsp;&nbsp;I mostly build <b>Web & AI systems, developer tools, personal projects,
 and freelance work.</b>
 </p>
 
 <p>
-When I'm not building something, I'm probably planning the next project,
-researching whatever caught my interest, or watching anime.
+&nbsp;&nbsp;Otherwise, I'm probably planning the next project, researching something
+interesting, or watching anime.
 </p>
+
+<br clear="left">
 
 <br>
 
