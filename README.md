@@ -229,15 +229,15 @@ I'm currently building <b>Panvas</b> and <b>FreeCompute</b> — one focused on l
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
-TypeScript               4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Markdown                 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JavaScript               6 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+Markdown                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+TypeScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 
 
- Last Updated on 23/10/2026 03:44:43 UTC
+ Last Updated on 24/10/2026 03:38:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
