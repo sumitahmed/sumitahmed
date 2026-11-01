@@ -225,19 +225,8 @@ I'm currently building <b>Panvas</b> and <b>FreeCompute</b> — one focused on l
 <br>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Go                       5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-TypeScript               5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-Markdown                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-JavaScript               2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-
-
- Last Updated on 31/10/2026 04:29:56 UTC
+ Last Updated on 01/11/2026 04:50:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
