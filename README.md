@@ -64,41 +64,6 @@ interesting, or watching anime.
 
 <br>
 
-<h3>Stack</h3>
-
-<b>Languages</b>
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-75645B?style=flat-square&logo=javascript&logoColor=F3E9DD" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-75645B?style=flat-square&logo=typescript&logoColor=F3E9DD" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-75645B?style=flat-square&logo=openjdk&logoColor=F3E9DD" alt="Java" />
-  <img src="https://img.shields.io/badge/C-75645B?style=flat-square&logo=c&logoColor=F3E9DD" alt="C" />
-  <img src="https://img.shields.io/badge/C++-75645B?style=flat-square&logo=cplusplus&logoColor=F3E9DD" alt="C++" />
-</p>
-
-<b>Web & Backend</b>
-
-<p>
-  <img src="https://img.shields.io/badge/React-75645B?style=flat-square&logo=react&logoColor=F3E9DD" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-75645B?style=flat-square&logo=nextdotjs&logoColor=F3E9DD" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express.js-75645B?style=flat-square&logo=express&logoColor=F3E9DD" alt="Express.js" />
-  <img src="https://img.shields.io/badge/WebSockets-75645B?style=flat-square&logo=socketdotio&logoColor=F3E9DD" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/WebRTC-75645B?style=flat-square&logo=webrtc&logoColor=F3E9DD" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/Flask-75645B?style=flat-square&logo=flask&logoColor=F3E9DD" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-75645B?style=flat-square&logo=fastapi&logoColor=F3E9DD" alt="FastAPI" />
-</p>
-
-<b>Data & Tooling</b>
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-75645B?style=flat-square&logo=postgresql&logoColor=F3E9DD" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-75645B?style=flat-square&logo=prisma&logoColor=F3E9DD" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MongoDB-75645B?style=flat-square&logo=mongodb&logoColor=F3E9DD" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-75645B?style=flat-square&logo=docker&logoColor=F3E9DD" alt="Docker" />
-</p>
-
-<br>
-
 <h3>Projects</h3>
 <p>
 I'm currently building <b>Panvas</b> and <b>FreeCompute</b> — one focused on local-first Study/Research Workspace give it a try, the other on making free cloud GPUs actually useful so you can run your unfiltered AI agents on them locally.
@@ -230,6 +195,41 @@ I'm currently building <b>Panvas</b> and <b>FreeCompute</b> — one focused on l
 <!--END_SECTION:waka-->
 
 </details>
+
+<br>
+
+<h3>Stack</h3>
+
+<b>Languages</b>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-75645B?style=flat-square&logo=javascript&logoColor=F3E9DD" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-75645B?style=flat-square&logo=typescript&logoColor=F3E9DD" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-75645B?style=flat-square&logo=openjdk&logoColor=F3E9DD" alt="Java" />
+  <img src="https://img.shields.io/badge/C-75645B?style=flat-square&logo=c&logoColor=F3E9DD" alt="C" />
+  <img src="https://img.shields.io/badge/C++-75645B?style=flat-square&logo=cplusplus&logoColor=F3E9DD" alt="C++" />
+</p>
+
+<b>Web & Backend</b>
+
+<p>
+  <img src="https://img.shields.io/badge/React-75645B?style=flat-square&logo=react&logoColor=F3E9DD" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-75645B?style=flat-square&logo=nextdotjs&logoColor=F3E9DD" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Express.js-75645B?style=flat-square&logo=express&logoColor=F3E9DD" alt="Express.js" />
+  <img src="https://img.shields.io/badge/WebSockets-75645B?style=flat-square&logo=socketdotio&logoColor=F3E9DD" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/WebRTC-75645B?style=flat-square&logo=webrtc&logoColor=F3E9DD" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Flask-75645B?style=flat-square&logo=flask&logoColor=F3E9DD" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-75645B?style=flat-square&logo=fastapi&logoColor=F3E9DD" alt="FastAPI" />
+</p>
+
+<b>Data & Tooling</b>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-75645B?style=flat-square&logo=postgresql&logoColor=F3E9DD" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-75645B?style=flat-square&logo=prisma&logoColor=F3E9DD" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-75645B?style=flat-square&logo=mongodb&logoColor=F3E9DD" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-75645B?style=flat-square&logo=docker&logoColor=F3E9DD" alt="Docker" />
+</p>
 
 <br>
 
