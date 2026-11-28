@@ -252,9 +252,9 @@ interesting, or watching anime.
 </p>
 
 <p>
-  <a href="https://buymeacoffee.com/sumitahmed">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support_my_work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
+  <a href="https://buymeacoffee.com/sumitahmed" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60" width="217" />
+</a>
 </p>
 
 <br>
