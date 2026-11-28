@@ -244,6 +244,24 @@ interesting, or watching anime.
 
 <br>
 
+<h3>Support My Work</h3>
+
+<p>
+  If you find my projects useful, consider supporting their development.
+  Your support helps me maintain existing projects and build more open-source tools.
+</p>
+
+<p>
+  <a href="https://github.com/sponsors/sumitahmed">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_my_work-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://buymeacoffee.com/sumitahmed">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support_my_work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<br>
+
 <h3>Connect with Me</h3>
 
 <div align="center">
