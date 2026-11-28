@@ -252,9 +252,6 @@ interesting, or watching anime.
 </p>
 
 <p>
-  <a href="https://github.com/sponsors/sumitahmed">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_my_work-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-  </a>
   <a href="https://buymeacoffee.com/sumitahmed">
     <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support_my_work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
